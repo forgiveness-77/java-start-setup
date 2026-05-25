@@ -30,6 +30,7 @@ public class SwaggerConfig {
                                 2. Copy `accessToken` from the response
                                 3. Click **Authorize** and paste the token
                                 4. Call **GET /api/users/me** to verify JWT access
+                                5. **GET /api/users** (ADMIN) — paginated list: `?page=0&size=10&sort=email,asc`
                                 """)
                         .contact(new Contact()
                                 .name("Support")
