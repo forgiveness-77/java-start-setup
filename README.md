@@ -55,9 +55,7 @@ If you'd like to contribute:
 
 ---
 
-## License
 
-This project is licensed under [Insert License Name]. Update this with license details.
 
 ---
 
